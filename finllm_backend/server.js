@@ -29,7 +29,9 @@ fs.ensureDir(path.join(__dirname, 'outputs'));
 // ── Middlewares ───────────────────────────────────────────────────────────────
 
 app.use(cors({
-  origin: '*',           // allow any origin — restrict in production via env
+  origin: ['*', 
+    "https://project_llm.vercel.app"
+   ],          // allow any origin — restrict in production via env
   methods: ['GET', 'POST', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization'],
   credentials: false,   // must be false when origin is '*'
