@@ -1,0 +1,161 @@
+{
+  "reports": [
+    {
+      "id": "report_1778428878698_20eaa4cd",
+      "company_name": "20260417   rapport dactivites annuel   exercice 2025   bici ci (4)",
+      "fiscal_year": null,
+      "verdict": null,
+      "alignment_score": null,
+      "credit_score": null,
+      "created_at": "2026-05-10T16:01:19.800Z",
+      "status": "processing"
+    },
+    {
+      "id": "report_1778428877631_beefddc0",
+      "company_name": "report_1778428877631_beefddc0",
+      "fiscal_year": null,
+      "verdict": "OPTIMISTE_EXCESSIF",
+      "alignment_score": 25,
+      "credit_score": 25,
+      "explication": "Le discours de la direction est très optimiste, mais les données financières disponibles sont insuffisantes pour étayer ces affirmations. Les indicateurs clés tels que le chiffre d'affaires, la marge nette et le résultat net sont inconnus, ce qui rend difficile l'évaluation de la performance réelle de l'entreprise.",
+      "created_at": "2026-05-10T16:02:00.883Z",
+      "status": "completed"
+    },
+    {
+      "id": "report_1778428524831_acc30ebe",
+      "company_name": "20260417   rapport dactivites annuel   exercice 2025   bici ci (4)",
+      "fiscal_year": null,
+      "verdict": null,
+      "alignment_score": null,
+      "credit_score": null,
+      "created_at": "2026-05-10T15:55:26.498Z",
+      "status": "processing"
+    },
+    {
+      "id": "report_1778428523757_f995cb9a",
+      "company_name": "report_1778428523757_f995cb9a",
+      "fiscal_year": null,
+      "verdict": "OPTIMISTE_EXCESSIF",
+      "alignment_score": 25,
+      "credit_score": 25,
+      "explication": "Le discours de gestion est optimiste, mais les données financières disponibles sont insuffisantes pour évaluer la performance réelle. L'absence de certains KPI limite le niveau de confiance de l'analyse.",
+      "created_at": "2026-05-10T15:57:01.892Z",
+      "status": "completed"
+    },
+    {
+      "id": "report_1778427490923_0d8c8860",
+      "company_name": "report_1778427490923_0d8c8860",
+      "fiscal_year": null,
+      "verdict": "OPTIMISTE_EXCESSIF",
+      "alignment_score": 25,
+      "credit_score": 25,
+      "explication": "Le discours de la direction est très optimiste, mais les données financières disponibles sont insuffisantes pour étayer ces affirmations. Les indicateurs clés tels que le chiffre d'affaires, la marge nette et le résultat net sont inconnus, ce qui rend difficile l'évaluation de la performance réelle de l'entreprise.",
+      "created_at": "2026-05-10T15:38:28.160Z",
+      "status": "completed"
+    },
+    {
+      "id": "report_1778426747531_0be95a78",
+      "company_name": "20260417   rapport dactivites annuel   exercice 2025   bici ci (4)",
+      "fiscal_year": null,
+      "verdict": null,
+      "alignment_score": null,
+      "credit_score": null,
+      "created_at": "2026-05-10T15:25:47.611Z",
+      "status": "processing"
+    },
+    {
+      "id": "report_1778370550744_4da1dc30",
+      "company_name": "20260417   rapport dactivites annuel   exercice 2025   bici ci (4)",
+      "fiscal_year": null,
+      "verdict": null,
+      "alignment_score": null,
+      "credit_score": null,
+      "created_at": "2026-05-09T23:49:10.799Z",
+      "status": "processing"
+    },
+    {
+      "id": "report_1778370548865_840561ee",
+      "company_name": "rapport annuel brvm 2014 0 1",
+      "fiscal_year": null,
+      "verdict": null,
+      "alignment_score": null,
+      "credit_score": null,
+      "created_at": "2026-05-09T23:49:09.075Z",
+      "status": "processing"
+    },
+    {
+      "id": "report_1778370225436_220bfe39",
+      "company_name": "20260417   rapport dactivites annuel   exercice 2025   bici ci (4)",
+      "fiscal_year": null,
+      "verdict": null,
+      "alignment_score": null,
+      "credit_score": null,
+      "created_at": "2026-05-09T23:43:46.052Z",
+      "status": "processing"
+    },
+    {
+      "id": "report_1778369693301_37fd6fa7",
+      "company_name": "rapport annuel brvm 2014 0",
+      "fiscal_year": null,
+      "verdict": null,
+      "alignment_score": null,
+      "credit_score": null,
+      "created_at": "2026-05-09T23:34:53.575Z",
+      "status": "processing"
+    },
+    {
+      "id": "report_1778368987706_4924fa33",
+      "company_name": "20260417   rapport dactivites annuel   exercice 2025   bici ci (4)",
+      "fiscal_year": null,
+      "verdict": null,
+      "alignment_score": null,
+      "credit_score": null,
+      "created_at": "2026-05-09T23:23:07.780Z",
+      "status": "processing"
+    },
+    {
+      "id": "report_1778367728175_74d3cdac",
+      "company_name": "20260417   rapport dactivites annuel   exercice 2025   bici ci (4)",
+      "fiscal_year": null,
+      "verdict": null,
+      "alignment_score": null,
+      "credit_score": null,
+      "created_at": "2026-05-09T23:02:08.275Z",
+      "status": "processing"
+    }
+  ],
+  "uploads": [
+    {
+      "id": "3536c674-466d-4fb2-9076-1d1a70aa9338",
+      "filename": "Certificat_Sawadogo_Jerielle.pdf",
+      "company_name": "Certificat Sawadogo Jerielle",
+      "size_mb": "0.01",
+      "uploaded_at": "2026-05-10T16:03:23.489Z",
+      "path": "C:\\Users\\jeeno\\OneDrive - Ecole Centrale Casablanca\\Bureau\\ressource 2ie (24 mars 2026 ~)\\Quantara\\project_llm\\.quantara-data\\library\\3536c674-466d-4fb2-9076-1d1a70aa9338.pdf"
+    },
+    {
+      "id": "0edfe986-15c5-4d92-b7a1-19b08eb059db",
+      "filename": "20260417_-_rapport_dactivites_annuel_-_exercice_2025_-_bici_ci (4).pdf",
+      "company_name": "20260417   rapport dactivites annuel   exercice 2025   bici ci (4)",
+      "size_mb": "3.41",
+      "uploaded_at": "2026-05-10T16:03:23.101Z",
+      "path": "C:\\Users\\jeeno\\OneDrive - Ecole Centrale Casablanca\\Bureau\\ressource 2ie (24 mars 2026 ~)\\Quantara\\project_llm\\.quantara-data\\library\\0edfe986-15c5-4d92-b7a1-19b08eb059db.pdf"
+    },
+    {
+      "id": "43397b8e-d1f0-44a2-8669-8c157ad05928",
+      "filename": "rapport_annuel_brvm_2014_0-1.pdf",
+      "company_name": "rapport annuel brvm 2014 0 1",
+      "size_mb": "6.44",
+      "uploaded_at": "2026-05-10T16:03:22.885Z",
+      "path": "C:\\Users\\jeeno\\OneDrive - Ecole Centrale Casablanca\\Bureau\\ressource 2ie (24 mars 2026 ~)\\Quantara\\project_llm\\.quantara-data\\library\\43397b8e-d1f0-44a2-8669-8c157ad05928.pdf"
+    },
+    {
+      "id": "6858410d-3865-4036-9fcf-0c7e3897661a",
+      "filename": "rapport_annuel_brvm_2014_0.pdf",
+      "company_name": "rapport annuel brvm 2014 0",
+      "size_mb": "6.44",
+      "uploaded_at": "2026-05-09T23:41:51.609Z",
+      "path": "C:\\Users\\jeeno\\OneDrive - Ecole Centrale Casablanca\\Bureau\\ressource 2ie (24 mars 2026 ~)\\Quantara\\project_llm\\.quantara-data\\library\\6858410d-3865-4036-9fcf-0c7e3897661a.pdf"
+    }
+  ]
+}
